@@ -75,6 +75,7 @@ class MainActivity : ComponentActivity() {
                     )
                 }
 
+                //You can display the chart item names below.
             }
         }
     }
